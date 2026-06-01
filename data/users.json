@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": "u1",
+            "username": "atigra_admin",
+            "email": "admin@atigra.com",
+            "password": "admin123",
+            "role": "admin"
+        }
+    ]
+}

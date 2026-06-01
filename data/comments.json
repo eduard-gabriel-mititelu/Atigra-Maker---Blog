@@ -1,0 +1,25 @@
+{
+    "comments": [
+        {
+            "id": "c1",
+            "postId": "p1",
+            "userId": "u1",
+            "content": "This is a comment on the first post.",
+            "date": "2026-05-29"
+        },
+        {
+            "id": "c1",
+            "postId": "p1",
+            "userId": "u1",
+            "content": "This is a comment on the first post.",
+            "date": "2026-05-29"
+        },
+        {
+            "id": "c1",
+            "postId": "p1",
+            "userId": "u1",
+            "content": "This is a comment on the first post.",
+            "date": "2026-05-29"
+        }
+    ]
+}
